@@ -110,8 +110,6 @@ a {
 #donate-plan {
   margin-top: 50px;
 }
-.donate-plan-content {
-}
 .donate-plan-content h2 {
   font-size: 48px;
   margin-bottom: 30px;
@@ -135,8 +133,7 @@ a {
   text-align: left;
   border-radius: 5px;
 }
-.items img {
-}
+
 .items h3 {
   margin: 30px 0;
   font-size: 25px;
