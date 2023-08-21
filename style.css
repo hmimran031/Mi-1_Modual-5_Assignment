@@ -8,6 +8,7 @@ html {
   font-family: "Anton", sans-serif;
   font-family: "Roboto", sans-serif;
 }
+<<<<<<< HEAD
 
 a {
   text-decoration: none;
@@ -23,6 +24,10 @@ a {
 }
 #banner {
   background-image: url(/images/banner.jpg);
+=======
+.banner {
+  background-image: url(./images/banner.jpg);
+>>>>>>> e6f9e9b77a17a2d6fe2ca84fdac6cc042c47fff0
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
