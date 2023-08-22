@@ -204,6 +204,7 @@ a.btn {
   font-size: 21px;
   width: 70%;
   margin: 0 auto;
+  line-height: 1.4;
 }
 .input-button {
   display: inline-flex;
